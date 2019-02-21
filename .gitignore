@@ -15,6 +15,7 @@ third_module
 .vs
 cmake-build-debug
 cmake-build-release
+cmake-build-*
  
 # for python
 *.py[cod]

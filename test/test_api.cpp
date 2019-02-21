@@ -15,6 +15,8 @@
 namespace {
 
 TEST(learn_py_local, api) {
+  int a = 2;
+  int b = 3;
   SetLogLevel(INFO);
   LOGI << "Test learn_py_local api file success";
 }
